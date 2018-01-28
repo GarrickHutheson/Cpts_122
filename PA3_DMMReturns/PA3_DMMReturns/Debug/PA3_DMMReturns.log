@@ -1,0 +1,94 @@
+﻿  main.c
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\main.c(33): warning C4013: 'menuPrompt' undefined; assuming extern returning int
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\main.c(49): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\main.c(72): warning C4133: 'function': incompatible types - from 'Node *' to 'Record *'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\main.c(84): warning C4133: 'function': incompatible types - from 'Node *' to 'Record *'
+  dmm.c
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(66): warning C4028: formal parameter 2 different from declaration
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(69): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(70): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(71): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(77): warning C4028: formal parameter 1 different from declaration
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(80): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(98): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(99): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(102): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(104): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(105): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(107): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(109): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(110): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(119): warning C4028: formal parameter 1 different from declaration
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(138): warning C4013: 'menuPrompt' undefined; assuming extern returning int
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(150): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(170): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(223): warning C4133: 'function': incompatible types - from 'Record *' to 'Node *'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(167): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(182): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(196): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(209): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(223): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(254): warning C4133: 'function': incompatible types - from 'Record *' to 'Node *'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(254): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(256): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(270): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(309): warning C4133: 'function': incompatible types - from 'Record *' to 'Node *'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(309): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(326): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(368): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(385): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(396): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(402): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(526): warning C4133: '=': incompatible types - from 'char *' to 'unsigned int *'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(527): warning C4133: '=': incompatible types - from 'char *' to 'unsigned int *'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(483): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(484): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(616): warning C4133: 'function': incompatible types - from 'Record *' to 'Node *'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(616): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(631): warning C4133: 'function': incompatible types - from 'Record *' to 'Node *'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(631): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(641): warning C4028: formal parameter 1 different from declaration
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(652): warning C4142: 'menuPrompt': benign redefinition of type
+  Generating Code...
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(81): warning C4172: returning address of local variable or temporary: durationString
+c:\users\garri\documents\cpts_122\pa3_dmmreturns\pa3_dmmreturns\dmm.c(260): warning C4172: returning address of local variable or temporary: recordString
+  PA3_DMMReturns.vcxproj -> C:\Users\Garri\Documents\Cpts_122\PA3_DMMReturns\Debug\PA3_DMMReturns.exe
+  PA3_DMMReturns.vcxproj -> C:\Users\Garri\Documents\Cpts_122\PA3_DMMReturns\Debug\PA3_DMMReturns.pdb (Full PDB)

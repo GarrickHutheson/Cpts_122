@@ -1,0 +1,8 @@
+﻿  Main.c
+c:\users\garri\documents\cpts_122\pa4_groceryqueues\main.c(16): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\garri\documents\cpts_122\pa4_groceryqueues\main.c(34): warning C4013: 'gets' undefined; assuming extern returning int
+  GroceryQueues.c
+c:\users\garri\documents\cpts_122\pa4_groceryqueues\groceryqueues.c(72): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+  Generating Code...
+  PA4_GroceryQueues.vcxproj -> C:\Users\Garri\Documents\Cpts_122\x64\Debug\PA4_GroceryQueues.exe
+  PA4_GroceryQueues.vcxproj -> C:\Users\Garri\Documents\Cpts_122\x64\Debug\PA4_GroceryQueues.pdb (Full PDB)
