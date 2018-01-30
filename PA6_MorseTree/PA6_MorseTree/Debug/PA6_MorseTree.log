@@ -1,0 +1,6 @@
+﻿  morseWriter.cpp
+c:\users\garri\documents\cpts_122\pa6_morsetree\pa6_morsetree\morsewriter.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  PA6_MorseTree.vcxproj -> C:\Users\Garri\Documents\Cpts_122\PA6_MorseTree\Debug\PA6_MorseTree.exe
+  PA6_MorseTree.vcxproj -> C:\Users\Garri\Documents\Cpts_122\PA6_MorseTree\Debug\PA6_MorseTree.pdb (Full PDB)
